@@ -1,0 +1,31 @@
+html {
+    font-family: sans-serif;
+  }
+
+.cool-box {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem; 
+    background-color:aquamarine; 
+    color: black; /* Contrasting text color */
+    text-shadow: 1px 1px 1px lightseagreen; /* Black text shadow */
+    border-radius: 20px;
+    border: 1px solid lightseagreen; /* Border color */
+    box-shadow: 0 4px 8px blueviolet; /* Standard box shadow */
+    position: relative;
+  }
+
+  .cool-box::before {
+    content: "";
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  }
