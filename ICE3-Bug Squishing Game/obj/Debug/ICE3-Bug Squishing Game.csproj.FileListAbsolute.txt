@@ -1,0 +1,10 @@
+C:\Users\garre\Documents\C#-courtney\ICE3-Bug Squishing Game\bin\Debug\ICE3-Bug Squishing Game.exe.config
+C:\Users\garre\Documents\C#-courtney\ICE3-Bug Squishing Game\bin\Debug\ICE3-Bug Squishing Game.exe
+C:\Users\garre\Documents\C#-courtney\ICE3-Bug Squishing Game\bin\Debug\ICE3-Bug Squishing Game.pdb
+C:\Users\garre\Documents\C#-courtney\ICE3-Bug Squishing Game\obj\Debug\ICE3-Bug Squishing Game.csproj.AssemblyReference.cache
+C:\Users\garre\Documents\C#-courtney\ICE3-Bug Squishing Game\obj\Debug\ICE3_Bug_Squishing_Game.Form1.resources
+C:\Users\garre\Documents\C#-courtney\ICE3-Bug Squishing Game\obj\Debug\ICE3_Bug_Squishing_Game.Properties.Resources.resources
+C:\Users\garre\Documents\C#-courtney\ICE3-Bug Squishing Game\obj\Debug\ICE3-Bug Squishing Game.csproj.GenerateResource.cache
+C:\Users\garre\Documents\C#-courtney\ICE3-Bug Squishing Game\obj\Debug\ICE3-Bug Squishing Game.csproj.CoreCompileInputs.cache
+C:\Users\garre\Documents\C#-courtney\ICE3-Bug Squishing Game\obj\Debug\ICE3-Bug Squishing Game.exe
+C:\Users\garre\Documents\C#-courtney\ICE3-Bug Squishing Game\obj\Debug\ICE3-Bug Squishing Game.pdb
